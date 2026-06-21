@@ -17,4 +17,4 @@ Conception et simulation d’un réseau campus (3 systèmes autonomes) avec Pack
 
 ## 📫 Contact
 - Email : jeanklodegbah@gmail.com
-- LinkedIn : [votre lien si vous l’avez]
+- LinkedIn : https://www.linkedin.com/in/jean-claude-gbah-b8239631b/
