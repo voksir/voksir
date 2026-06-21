@@ -3,7 +3,7 @@
 Full-Stack Developer & AI | Data Engineer
 ## 💼 Focus areas
 - Cybersecurity
-- AI / Machine Learning / IoT (Python, TensorFlow, AgentScope)
-- Data pipelines & cloud (Supabase, Vercel, FastAPI)
+- AI / Machine Learning / IoT 
+- Data pipelines & cloud
 - Network
 - Computer Vision
