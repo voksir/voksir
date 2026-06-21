@@ -1,8 +1,8 @@
 # Hi, I'm Jean Claude GBAH 👋
 
-Full-Stack Developer & AI Engineer .
+Full-Stack Developer & AI | Data Engineer
 ## 💼 Focus areas
-- Web & mobile applications (Next.js, React, React Native, Expo)
+- Cybersecurity
 - AI / Machine Learning / IoT (Python, TensorFlow, AgentScope)
 - Data pipelines & cloud (Supabase, Vercel, FastAPI)
 - Network
