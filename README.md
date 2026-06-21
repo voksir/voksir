@@ -1,9 +1,20 @@
 # Hi, I'm Jean Claude GBAH 👋
 
-Full-Stack Developer & AI | Data Engineer
-## 💼 Focus areas
-- Cybersecurity
-- AI / Machine Learning / IoT 
-- Data pipelines & cloud
-- Network
-- Computer Vision
+Réseaux & cybersécurité · Abidjan, Côte d'Ivoire 🇨🇮
+
+## 💼 Focus
+- Réseaux
+- Cybersécurité
+
+## 🌐 Projet réseau — Campus multi-AS
+Conception et simulation d’un réseau campus (3 systèmes autonomes) avec Packet Tracer.  
+📄 **Documentation complète :** [computer-network-project.gitbook.io](https://computer-network-project.gitbook.io/computer-network-project-docs-report)
+
+## 🔗 Autres projets
+- [BRVM Intelligence](https://voksir.github.io/brvm-intelligence-portfolio/) — pipelines de données & analyse (UEMOA)
+- [YOLO Detection](https://voksir.github.io/yolo-detection-portfolio/) — computer vision
+- [TerraCI](https://terraci.vercel.app/) — données territoriales Côte d'Ivoire
+
+## 📫 Contact
+- Email : jeanklodegbah@gmail.com
+- LinkedIn : [votre lien si vous l’avez]
